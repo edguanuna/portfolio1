@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Design Change Engineer at Beckman Coulter Diagnostics",
     description:
       "Currently working at Beckman Coulter Diagnostics saving the world by curing cancer, instigating world peace, and ending world hunger yk what I'm sayin. Believe me when I say you my work will go RIGHT over your small smooth shiny brain unless you're an EE too luh mao y ricky",
-    image: "https://www.danaher.com/sites/default/files/images/company/Beckman-Coulter-Logo-545w.png",
+    image: "https://www.estrade.in/wp-content/uploads/2016/09/Portfolio_Beckman2.jpg",
     link: "https://www.beckmancoulter.com/",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "United States Air Force",
     description:
       "Coded while-loops all day every day for a living while going to school and getting PAID to go to school on top of that luh mao, wasn't too hot of a job really cuz government work be slow but hey I was a SWE for a little so that's swen eh.",
-    image: "https://logos-download.com/wp-content/uploads/2016/12/US_Air_Force_logo_logotype.png",
+    image: "https://clipartcraft.com/images/airforce-logo-5.png",
     link: "https://www.airforce.com/",
   },
 ];
@@ -43,8 +43,8 @@ export const testimonials = [
   },
   {
     quote:
-      "I can verify that Elias is a Momma's boi and that I love him very much.",
-    image: "./Pics/momma.jpeg",
+      "I can verify that Elias is a Momma's boi and that I love him very much. Elias if you're reading this - please come home sweetie, Ma Woof misses you and we have food for you stay safe bye",
+    image: "http://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201806/621643593.jpg",
     name: "My Momma",
     company: "Federal Bureau of Investigation",
   },
